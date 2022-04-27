@@ -1,0 +1,122 @@
+
+
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+
+html,
+body {
+	margin: 0;
+	height: 100%;
+}
+
+
+/* don't edit this */
+
+.jest-lite-report__status--pass {
+	background: var(--color-pass);
+}
+
+.jest-lite-report__errors {
+	display: none
+}
+h6{
+  color: blue;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=&display=swap');
+.header {
+	overflow: hidden;
+	background-color: #f1f1f1;
+	padding: 20px 10px;
+}
+
+html {
+	background-repeat: no-repeat;
+	font-family: Comic sans, cursive;
+}
+
+header {
+	font-size: 50px;
+}
+
+h2,
+h3,
+h4,
+h5 {
+	font-size: 40px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+	text-align: center;
+}
+
+iframe {
+	right: 50%;
+}
+
+.iframe-itself {
+	position: relative;
+	top: 0;
+	left: 0;
+	border: 0px;
+}
+
+footer {
+	position: justify;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: blue;
+	color: white;
+	text-align: center;
+}
+
+button {
+	background-color: #008CBA;
+	color: white;
+	font-family: Comic sans, cursive;
+}
+
+html {
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUbP5MtCJMl1L0FXkRCDj9PZR7O3Ue6YsOg&usqp=CAU");
+	background-size: 100% 1200%;
+}
+
+nav {
+	list-style-type: none;
+	margin: 20px;
+	padding: 20px;
+	overflow: hidden;
+	background-color: #88860B;
+}
+
+a {
+	color: white;
+	text-align: center;
+	padding: 40px 80px;
+	text-decoration: none;
+}
+
+a:hover:not(.active) {
+	background-color: #483D8B;
+}
+
+.active {
+	background-color: #483D8B;
+}
+comment{
+  width: 200px;
+  height: 80px;
+  
+}
